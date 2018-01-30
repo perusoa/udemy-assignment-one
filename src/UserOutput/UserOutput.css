@@ -1,0 +1,11 @@
+.UserOutput {
+  display: block;
+  width: 50%;
+  float: left;
+  padding: 0 30px;
+}
+.UserOutput p {
+  font-size: 19px;
+  line-height: 28px;
+  font-weight: 300;
+}

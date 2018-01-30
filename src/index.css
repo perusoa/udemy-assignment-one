@@ -1,0 +1,17 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+.site-container {
+  display: block;
+  max-width: 1440px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.site-container > h1 { text-align: center; }
